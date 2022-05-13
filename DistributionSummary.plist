@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>qrcode-checkin.ipa</key>
+	<array>
+		<dict>
+			<key>architectures</key>
+			<array>
+				<string>arm64</string>
+			</array>
+			<key>buildNumber</key>
+			<string>1</string>
+			<key>certificate</key>
+			<dict>
+				<key>SHA1</key>
+				<string>0045A35679AFC934085A6BB1094C64786EE61367</string>
+				<key>dateExpires</key>
+				<string>2023/5/12</string>
+				<key>type</key>
+				<string>iOS Distribution</string>
+			</dict>
+			<key>embeddedBinaries</key>
+			<array>
+				<dict>
+					<key>architectures</key>
+					<array>
+						<string>arm64</string>
+					</array>
+					<key>buildNumber</key>
+					<string>1</string>
+					<key>certificate</key>
+					<dict>
+						<key>SHA1</key>
+						<string>0045A35679AFC934085A6BB1094C64786EE61367</string>
+						<key>dateExpires</key>
+						<string>2023/5/12</string>
+						<key>type</key>
+						<string>iOS Distribution</string>
+					</dict>
+					<key>name</key>
+					<string>MQTTClient.framework</string>
+					<key>team</key>
+					<dict>
+						<key>id</key>
+						<string>YT3EAU9NM4</string>
+						<key>name</key>
+						<string>Bright Ideas Design Co., Ltd. (Company)</string>
+					</dict>
+					<key>versionNumber</key>
+					<string>0.15.3</string>
+				</dict>
+			</array>
+			<key>entitlements</key>
+			<dict>
+				<key>application-identifier</key>
+				<string>YT3EAU9NM4.Brightideas.Ntmofa.qrcode-checkin</string>
+				<key>com.apple.developer.team-identifier</key>
+				<string>YT3EAU9NM4</string>
+				<key>get-task-allow</key>
+				<false/>
+			</dict>
+			<key>name</key>
+			<string>qrcode-checkin.app</string>
+			<key>profile</key>
+			<dict>
+				<key>UUID</key>
+				<string>fae3dc42-b03c-4334-a684-a36485a23c6a</string>
+				<key>dateExpires</key>
+				<string>2023/5/12</string>
+				<key>name</key>
+				<string>XC AdHoc: *</string>
+			</dict>
+			<key>team</key>
+			<dict>
+				<key>id</key>
+				<string>YT3EAU9NM4</string>
+				<key>name</key>
+				<string>Bright Ideas Design Co., Ltd. (Company)</string>
+			</dict>
+			<key>versionNumber</key>
+			<string>1.0</string>
+		</dict>
+	</array>
+</dict>
+</plist>
