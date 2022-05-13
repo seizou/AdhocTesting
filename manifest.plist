@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>items</key>
+	<array>
+		<dict>
+			<key>assets</key>
+			<array>
+				<dict>
+					<key>kind</key>
+					<string>software-package</string>
+					<key>url</key>
+					<string>https://github.com/seizou/AdhocTesting/blob/f3625aae35f86ec6d84ea318608df00244ef1bfb/qrcode-checkin.ipa</string>
+				</dict>
+				<dict>
+					<key>kind</key>
+					<string>display-image</string>
+					<key>url</key>
+					<string>https://github.com/seizou/AdhocTesting/blob/f3625aae35f86ec6d84ea318608df00244ef1bfb/logo-57.png</string>
+				</dict>
+				<dict>
+					<key>kind</key>
+					<string>full-size-image</string>
+					<key>url</key>
+					<string>https://github.com/seizou/AdhocTesting/blob/f3625aae35f86ec6d84ea318608df00244ef1bfb/logo-512.png</string>
+				</dict>
+			</array>
+			<key>metadata</key>
+			<dict>
+				<key>bundle-identifier</key>
+				<string>Brightideas.Ntmofa.qrcode-checkin</string>
+				<key>bundle-version</key>
+				<string>1.0</string>
+				<key>kind</key>
+				<string>software</string>
+				<key>platform-identifier</key>
+				<string>com.apple.platform.iphoneos</string>
+				<key>title</key>
+				<string>漂浮島城報到系統</string>
+			</dict>
+		</dict>
+	</array>
+</dict>
+</plist>
